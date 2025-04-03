@@ -1,0 +1,29 @@
+#loading {
+    display: none;
+    font-size: 18px;
+    color: blue;
+  }
+  
+  #error {
+    color: red;
+    font-size: 16px;
+  }
+  
+  #result {
+    font-size: 18px;
+    color: green;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #333;
+  }
+
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  strong {
+    color: #000;
+  }
